@@ -6,9 +6,9 @@
 
 		<title>„Modulare Prosopographische Registratur“</title>
 
-		<link rel="stylesheet" href="reveal.js/css/layout.scss">
-		<link rel="stylesheet" href="reveal.js/css/reveal.scss">
-		<link rel="stylesheet" href="reveal.js/css/theme/source/simple.scss">
+		<link rel="stylesheet" href="reveal.js/css/layout.scss" type="text/x-scss">
+		<link rel="stylesheet" href="reveal.js/css/reveal.scss" type="text/x-scss">
+		<link rel="stylesheet" href="reveal.js/css/theme/source/simple.scss" type="text/x-scss">
 	</head>
 	<body>
 		<div class="reveal">
@@ -20,7 +20,9 @@
 
 		<script src="reveal.js/js/reveal.js"></script>
 		<script>
-			Reveal.initialize();
+		Reveal.initialize({
+		    plugins: [ RevealMarkdown ]
+		  });
 		</script>
 	</body>
 </html>
