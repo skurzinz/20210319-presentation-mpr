@@ -1,5 +1,9 @@
 # „Modulare Prosopographische Registratur“
 
+<div id="top-right">
+	<img src="assets/ihb_deutsch_web70.jpg"/>
+</div>
+
 <div id="bottom-left">
 stephan.kurz@oeaw.ac.at
 </div>
