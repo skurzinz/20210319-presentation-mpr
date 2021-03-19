@@ -47,6 +47,7 @@ FB Habsburgermonarchie
 * VieCPro
 * Wiener Hof
 * …
+
 <!-- * Kaiserinnenbriefe (Edition)
 * Korrespondenz Leopold I. (Edition) 
 
@@ -81,8 +82,8 @@ FB Balkanforschung
 
 ## Showcase
 
-* QHOD
-* MRP
+* QHOD Quellen zur Habsburgisch-Osmanischen Diplomatie
+* MRP Ministerratsprotokolle Österreichs und der österreichisch-ungarischen Monarchie 1848–1918, Digitale Edition
 
 ---
 
