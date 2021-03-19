@@ -1,7 +1,7 @@
 # „Modulare Prosopographische Registratur“
 
 <div id="bottom-left">
-<stephan.kurz@oeaw.ac.at>
+stephan.kurz@oeaw.ac.at
 </div>
 
 <div id="bottom-right">
@@ -9,7 +9,7 @@ IHB<br/>
 Wien, 2021-03-19
 </div>
 
-----
+---
 
 ## APIS recap
 
@@ -18,7 +18,7 @@ Wien, 2021-03-19
 * lokale Kuratierung
 * viele Instanzen
 
-----
+---
 
 
 ## Anwendungen am IHB
@@ -67,7 +67,7 @@ FB Balkanforschung
 * Registererstellung für Ihr nächstes Buch
 * Ihr Büronachbar hat Daten zu X, ohne dass Sie es wissen
 
-----
+---
 
 
 ## Showcase
@@ -109,7 +109,7 @@ Ich fang mit dem Projekt an, wo wir bis jetzt die Verlinkungen noch gar nicht ha
 Ziel: Eingabe stabiler Identifikatoren, die wiederverwendbar sind. 
 
 
-----
+---
 
 ## ☛
 
