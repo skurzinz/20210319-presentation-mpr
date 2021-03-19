@@ -1,34 +1,3 @@
----
-title: „Modulare Prosopographische Registratur“ <br/>(mpr.acdh.oeaw.ac.at) als Werkzeug für Editionsprojekte am IHB. Tools und Potenzial
-author: <stephan.kurz@oeaw.ac.at>
-institute: IHB
-date: Wien, 2021-03-19
----
-
-<style>
-#bottom-left {
-    bottom: .5rem;
-    left: 0;
-    position: fixed;
-    right: 0;
-    text-align: left;
-}
-#bottom-right {
-    bottom: .5rem;
-    left: 0;
-    position: fixed;
-    right: 0;
-    text-align: right;
-}
-#bottom-center {
-    bottom: .5rem;
-    left: 0;
-    position: fixed;
-    right: 0;
-    text-align: center;
-}
-</style>
-
 # „Modulare Prosopographische Registratur“
 
 <div id="bottom-left">
