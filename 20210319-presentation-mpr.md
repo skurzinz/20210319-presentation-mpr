@@ -113,12 +113,12 @@ Ziel: Eingabe stabiler Identifikatoren, die wiederverwendbar sind.
 
 ## ☛
 
-<https://mpr.acdh.oeaw.ac.at>
+https://mpr.acdh.oeaw.ac.at
 
 einsehbarer work in progress… 
 
 <div id="bottom-center">
-Slides: <br/><https://skurzinz.github.io/20210319-presentation-mpr>
+Slides: <br/>https://skurzinz.github.io/20210319-presentation-mpr
 </div>
 
 
