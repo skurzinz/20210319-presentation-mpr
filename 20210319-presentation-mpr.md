@@ -21,7 +21,7 @@ Wien, 2021-03-19
 * strukturierte Entitätsdaten
 * Anbindung an LOD-Welt
 * lokale Kuratierung
-* viele Instanzen
+* viele Instanzen – matches über SPARQL
 
 ---
 
@@ -34,25 +34,29 @@ Wien, 2021-03-19
 ---
 
 
-## Aktuelle Projekte
+## Aktuelle IHB-Projekte, die APIS-Daten verwenden
 
 FB Digitale Editionen
 
-* Ministerratsprotokolle-Edition
-* Quellen zur Habsburgisch-Osmanischen Diplomatie
+* [Ministerratsprotokolle-Edition](https://mrp.oeaw.ac.at/)
+* [Quellen zur Habsburgisch-Osmanischen Diplomatie](https://www.oeaw.ac.at/ihb/forschungsbereiche/digitale-historiographie-und-editionen/forschung/habsburg-osmanische-diplomatie)
 * [Travelogues]
 
 FB Habsburgermonarchie
 
 * VieCPro
 * Wiener Hof
-* Kaiserinnenbriefe (Edition)
-* Korrespondenz Leopold I. (Edition)
+* …
+<!-- * Kaiserinnenbriefe (Edition)
+* Korrespondenz Leopold I. (Edition) 
 
 FB Balkanforschung
 
 * Daten z.B. Gazetteer Ottoman Empire
 * Ortsnamen
+* …
+
+-->
 
 ---
 
@@ -119,9 +123,9 @@ Ziel: Eingabe stabiler Identifikatoren, die wiederverwendbar sind.
 
 ## ☛
 
-* https://mpr.acdh.oeaw.ac.at <br/>
-einsehbarer work in progress… 
-* Slides: <br/>https://skurzinz.github.io/20210319-presentation-mpr
+* einsehbarer *work in progress*:<br/>https://mpr.acdh.oeaw.ac.at
+
+* Folien https://skurzinz.github.io/20210319-presentation-mpr
 
 
 
